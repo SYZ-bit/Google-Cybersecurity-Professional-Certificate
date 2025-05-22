@@ -46,8 +46,8 @@ Each folder contains:
 
 ## 📜 Certificate
 
-📌 You can view my verified certificate on [Coursera](#)[text](<Google Cybersecurity Professional Certification.pdf>)
-
+📌 You can view my verified certificate here:
+[text](<Google Cybersecurity Professional Certification.pdf>)
 
 
 Thank you for visiting this portfolio! 🚀
