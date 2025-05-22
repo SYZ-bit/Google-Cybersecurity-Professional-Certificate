@@ -47,7 +47,7 @@ Each folder contains:
 ## 📜 Certificate
 
 📌 You can view my verified certificate here:
-[text](<Google Cybersecurity Professional Certification.pdf>)
+[Google Cybersecurity Professional Certification](<Google Cybersecurity Professional Certification.pdf>)
 
 
 Thank you for visiting this portfolio! 🚀
